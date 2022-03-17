@@ -1,0 +1,25 @@
+{
+	"eu-west-1": {
+		"service_id": "vpce-svc-<random-number>",
+		"region": "Ireland",
+		"service_name": "com.amazonaws.vpce.eu-west-1.vpce-svc-<random-number>"
+	},
+
+	"eu-central-1": {
+		"service_id": "vpce-svc-<random-number>",
+		"region": "Frankfurt",
+		"service_name": "com.amazonaws.vpce.eu-central-1.vpce-svc-<random-number>"
+	},
+
+	"us-east-2": {
+		"service_id": "vpce-svc-<random-number>",
+		"region": "Ohio",
+		"service_name": "com.amazonaws.vpce.us-east-2.vpce-svc-<random-number>"
+	},
+
+	"eu-south-1": {
+		"service_id": "vpce-svc-<random-number>",
+		"region": "Milan",
+		"service_name": "com.amazonaws.vpce.eu-south-1.vpce-svc-<random-number>"
+	}
+}
