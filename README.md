@@ -76,13 +76,13 @@ This project will only try to automate **ONLY** the operation from **ALLOWING TH
  
  In the **settings.py** file there are some **settings variables**
  
- 
+ ![immagine](https://user-images.githubusercontent.com/87022719/158791048-41f4c7f9-ecec-4185-ab89-bdf37d03de5c.png)
 
 I suggest you to upload your **assets_services.json** to a **S3 BUCKET** with public access & copy the url in the **assets_url** variable.
 
 The **assets_services.json** in your cloned folder should look like this
 
-
+![immagine](https://user-images.githubusercontent.com/87022719/158791125-d94ae242-379a-43e4-a5e5-3b542a6ee45e.png)
 
 The JSON Keys are identical to the information to copy located in the **Details Tab** of your **Endpoint Service**.
 
